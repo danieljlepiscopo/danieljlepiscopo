@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan! <br/><a href="https://github.com/danieljlepiscopo">Programmer</a>, <a href="https://www.linkedin.com/in/danieljlepiscopo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@danieljlepiscopo">YouTuber</a></h1>
+<h1>Hi, I'm Dan! 👋 <br/><a href="https://github.com/danieljlepiscopo">Programmer</a>, <a href="https://www.linkedin.com/in/danieljlepiscopo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@danieljlepiscopo">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
