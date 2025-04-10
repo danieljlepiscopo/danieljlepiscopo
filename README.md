@@ -9,6 +9,8 @@
 
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/danieljlepiscopo/LABURL)
+
+<h2>🌐 Computer Networking Projects:</h2>
  
 <h2>🗒️ Certifications:</h2>
   
