@@ -14,7 +14,7 @@
  
 <h2>🗒️ Certifications:</h2>
   
-- [Google Cybersecurity Professional Certificate](https://github.com/danieljlepiscopo/LABURL)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
 
 <h2>📺 Popular YouTube Videos</h2>
 
