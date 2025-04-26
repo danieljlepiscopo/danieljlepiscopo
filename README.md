@@ -8,7 +8,7 @@
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Azure</b>
-  - [Windows Honeypot in Azure with Microsoft Sentinel Attack Map](https://github.com/danieljlepiscopo/windows-honeypot-sentinel)
+  - [Windows Honeypot in Azure](https://github.com/danieljlepiscopo/windows-honeypot-sentinel)
 
 <h2>🌐 Computer Networking Projects:</h2>
  
