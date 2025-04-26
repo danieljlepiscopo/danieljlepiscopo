@@ -7,8 +7,8 @@
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/danieljlepiscopo/LABURL)
+- <b>Azure</b>
+  - [Windows Honeypot in Azure with Microsoft Sentinel Attack Map](https://github.com/danieljlepiscopo/windows-honeypot-sentinelL)
 
 <h2>🌐 Computer Networking Projects:</h2>
  
