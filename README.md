@@ -15,6 +15,9 @@
 <h2>🗒️ Certifications:</h2>
   
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
+- CompTia Security+ (In Progress: 06/25)
+- Cisco's CCNA (Expected: 09/25)
+- ISC2 CISSP (Expected: 12/25)
 
 <h2>📺 Popular YouTube Videos</h2>
 
