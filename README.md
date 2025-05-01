@@ -1,25 +1,25 @@
 <h1>Hi, I'm Dan! 👋 <br/><a href="https://github.com/danieljlepiscopo">Programmer</a>, <a href="https://www.linkedin.com/in/danieljlepiscopo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@danieljlepiscopo">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
 - <b>Java</b>
   - [Understanding Java](https://github.com/danieljlepiscopo/Understanding-Java)
 
-<h2>🛡️ Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects</h2>
 
 - <b>Azure/Sentinel</b>
   - [Windows Honeypot in Azure](https://github.com/danieljlepiscopo/windows-honeypot-sentinel)
 
-<h2>🌐 Computer Networking Projects:</h2>
+<h2>🌐 Computer Networking Projects</h2>
  
-<h2>🗒️ Certifications:</h2>
+<h2>🗒️ Certifications</h2>
   
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
 - CompTia Security+ (In Progress: 06/25)
 - Cisco's CCNA (Expected: 09/25)
 - ISC2 CISSP (Expected: 12/25)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Setting Up Your Environment](https://www.youtube.com/watch?v=iBpuLrcBTmE)
 - [System.out.print("Hello World!");](https://youtu.be/qM6zZGu3ELA)
