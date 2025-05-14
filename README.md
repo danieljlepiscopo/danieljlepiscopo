@@ -11,6 +11,11 @@
   - [Windows Honeypot in Azure](https://github.com/danieljlepiscopo/windows-honeypot-sentinel)
 
 <h2>🌐 Computer Networking Projects</h2>
+
+- <b>Cisco Packet Tracer</b>
+
+- <b>GNS3</b>
+
  
 <h2>🗒️ Certifications</h2>
   
