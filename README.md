@@ -20,7 +20,7 @@
 <h2>🗒️ Certifications</h2>
   
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
-- [CompTia Security+ SY0-701](https://www.comptia.org/en-us/)
+- [CompTia Security+ SY0-701 | Code:18FVTVWQ82EQSGQJ](https://verify.comptia.org)
 - Cisco's CCNA 200-301 (In Progress: 09/25)
 - ISC2 CISSP (Expected: 12/25)
 
