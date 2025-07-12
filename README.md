@@ -16,8 +16,8 @@
 
 - <b>GNS3</b>
 
-- <b>Home Lab</b>
-  - [CCNA Home Lab](https://github.com/danieljlepiscopo/ccna-homelab)
+- <b>Homelab</b>
+  - [CCNA Homelab](https://github.com/danieljlepiscopo/ccna-homelab)
  
 <h2>🗒️ Certifications</h2>
   
