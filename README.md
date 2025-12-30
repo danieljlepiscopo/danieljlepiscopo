@@ -23,8 +23,8 @@
   
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
 - [CompTia Security+ SY0-701 | Code:18FVTVWQ82EQSGQJ](https://verify.comptia.org)
-- Cisco's CCNA 200-301 (In Progress: 11/27/2025)
-- AWS Cloud Practitioner (Expected: 12/25)
+- Cisco's CCNA 200-301 (Exam Date: 01/20/2026)
+- AWS Cloud Practitioner (Targeting: Q1 2026)
 
 <h2>📺 YouTube Videos</h2>
 
