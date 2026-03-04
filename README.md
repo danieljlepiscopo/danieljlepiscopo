@@ -14,8 +14,6 @@
 
 - <b>Cisco Packet Tracer</b>
 
-- <b>GNS3</b>
-
 - <b>Homelab</b>
   - [CCNA Homelab](https://github.com/danieljlepiscopo/ccna-homelab)
  
