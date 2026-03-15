@@ -10,9 +10,11 @@
 - <b>Azure/Sentinel</b>
   - [Windows Honeypot in Azure](https://github.com/danieljlepiscopo/windows-honeypot-sentinel)
 
-<h2>🌐 Computer Networking Projects</h2>
+<h2>☁️ Cloud Projects</h2>
 
-- <b>Cisco Packet Tracer</b>
+- <b>AWS</b>
+
+<h2>🌐 Computer Networking Projects</h2>
 
 - <b>Homelab</b>
   - [CCNA Homelab](https://github.com/danieljlepiscopo/ccna-homelab)
@@ -21,7 +23,7 @@
   
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
 - [CompTia Security+ SY0-701 | Code:18FVTVWQ82EQSGQJ](https://verify.comptia.org)
-- Cisco's CCNA 200-301 (Exam Date: 03/16/2026)
+- Cisco's CCNA 200-301 (Exam Date: 03/19/2026)
 - AWS Cloud Practitioner (Targeting: Q2 2026)
 
 <h2>📺 YouTube Videos</h2>
