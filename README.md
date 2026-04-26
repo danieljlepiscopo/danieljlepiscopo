@@ -19,6 +19,10 @@
 - <b>Homelab</b>
   - [CCNA Homelab](https://github.com/danieljlepiscopo/ccna-homelab)
  
+- <b>CML</b>
+  - [OSPF + BGP]()
+  - [HSRP + ACLs + NAT]()
+ 
 <h2>🗒️ Certifications</h2>
   
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
