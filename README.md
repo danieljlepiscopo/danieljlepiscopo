@@ -29,7 +29,7 @@
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/cfaac69d89d90a419f9dd25457f2e61c)
 - [CompTia Security+ SY0-701](https://verify.comptia.org)
 - [Cisco's CCNA 200-301](https://www.credly.com/badges/8b80a545-78e4-4c1c-96c8-1b90dd36592a/public_url)
-- AWS Cloud Practitioner (Exam Date: 04/30/2026)
+- AWS Cloud Practitioner (Exam Date: 05/14/2026)
 
 <h2>📺 YouTube Videos</h2>
 
