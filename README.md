@@ -22,7 +22,7 @@
 - <b>CML</b>
   - [OSPF + BGP](https://github.com/danieljlepiscopo/cml_labs/tree/main/lab1-ospf-bgp)
   - [HSRP + ACLs + NAT](https://github.com/danieljlepiscopo/cml_labs/tree/main/lab2-hsrp-acl-nat)
-  - [Ansible + Netmiko](https://github.com/danieljlepiscopo/cml_labs/tree/main/automation)
+  - [Automation](https://github.com/danieljlepiscopo/cml_labs/tree/main/automation)
  
 <h2>🗒️ Certifications</h2>
   
