@@ -13,6 +13,7 @@
 <h2>Cloud Projects</h2>
 
 - <b>AWS</b>
+  - [AWS Networking Foundation](https://github.com/danieljlepiscopo/aws-network-foundation)
 
 <h2>Computer Networking Projects</h2>
 
